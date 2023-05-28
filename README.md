@@ -37,5 +37,5 @@ To install these extensions in VS Code, follow these steps:
 
 By incorporating these essential extensions into your VS Code setup, you'll unlock a world of productivity and convenience. From improving CSS productivity and code formatting to enhancing Git integration and debugging capabilities, these extensions are indispensable tools for any developer. Install them today and experience the difference in your development workflow.
 
-For more tips and resources on coding, you can visit [Sayyid Mahaboob's Blog]([URL](https://sayyidmahaboob.hashnode.dev/))
+For more tips and resources on coding, you can visit [Sayyid Mahaboob's Blog](https://sayyidmahaboob.hashnode.dev/)
 . Happy coding!
